@@ -1,1 +1,3 @@
-*Quick walkthrough of [Github's training manual](https://github.github.io/training-manual/) ... 'cuz why not?*
+## why?
+
+*'cuz it might be better to practice cherry picking, reverts, and messin' with the reflog in a sandbox.*
